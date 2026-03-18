@@ -1,4 +1,6 @@
 ## resposnsible for creating ML application as a package
+"""setup.py is a Python script used to define package metadata and manage the build, 
+distribution, and installation of Python packages with the setuptools library."""
 from setuptools import find_packages,setup
 from typing import List
 
